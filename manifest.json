@@ -1,0 +1,30 @@
+{
+  "name": "AdHub – ตลาดซื้อขายพื้นที่โฆษณา",
+  "short_name": "AdHub",
+  "description": "ซื้อขายพื้นที่โฆษณา สั่งซื้อและสแกนจ่ายได้ในแอปเดียว",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8fafc",
+  "theme_color": "#4f46e5",
+  "lang": "th",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
